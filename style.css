@@ -1,0 +1,16 @@
+body {
+	margin-top: 20px;
+}
+.button-box {
+	margin: 10px auto;
+	padding: 20px;
+}
+.button-box p {
+	padding: 10px 0;
+}
+[data-button-toggle='1'] {
+	background-color: #00ff00;
+}
+[data-button-toggle='2'] {
+	background-color: #ff0000;
+}
